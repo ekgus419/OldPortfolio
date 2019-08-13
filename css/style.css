@@ -1,0 +1,65 @@
+.icon {
+    display: inline-block;
+    width: 3em;
+    height: 3em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-java {
+    /*width: 4em;*/
+}
+
+.icon-Php {
+    width: 4em;
+    height: 4em;
+}
+
+.icon-spring {
+    width: 5em;
+    height: 5em;
+}
+
+.icon-Codeigniter {
+    width: 5em;
+    height: 5em;
+}
+
+.icon-Handlebars {
+    width: 4em;
+    height: 4em;
+}
+
+.icon-Centos {
+    width: 5em;
+    height: 5em;
+}
+
+.icon-mssql {
+    width: 5em;
+    height: 5em;
+}
+
+.icon-Postgresql {
+    width: 3.5em;
+    height: 3.5em;
+}
+
+.icon-Sqlite {
+    width: 4em;
+}
+
+.name {
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 0.3em;
+}
